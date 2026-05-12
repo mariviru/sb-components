@@ -1,6 +1,6 @@
-import {} from "./MyLabel.css";
+import "./MyLabel.css";
 
-interface Props {
+export interface Props {
   /**
    *  Text to display
    */
