@@ -41,7 +41,7 @@
     "clean": "rimraf dist/",
     "copyfiles": "copyfiles -u 1 src/**/*.css dist/src",
     "push:npm": "np",
-    "test": "echo 'all test where good"
+    "test": "echo 'all test where good'"
   },
   "devDependencies": {
     "@babel/core": "^7.29.0",
